@@ -1,0 +1,9 @@
+1.	<project>
+2.	<modelVersion>4.0.0</modelVersion>
+3.	 
+4.	<groupId>com.mycompany.app</groupId>
+5.	<artifactId>my-app</artifactId>
+6.	<version>1</version>
+7.	</project>
+
+
